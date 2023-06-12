@@ -27,7 +27,7 @@ The data set includes information from 996 users from a fintech app from the end
 - "Tài khoản tiền Mặc định" is the product with the highest transaction volume. "Hũ vàng" is the product with the lowest transaction value.
 - "Tài khoản tiền Mặc định" and "Hũ vàng" are the two products with a lower withdrawal rate compared to the deposit rate. Conversely, "Tích luỹ" and "Chứng Khoán" have a higher withdrawal rate compared to the deposit rate.
 
-<img width="834" alt="image" src="https://github.com/UyenLuong/User_Analysis/assets/133351869/1c0d3617-a862-41cd-b438-9be2cc8a6263">
+<img width="695" alt="image" src="https://github.com/UyenLuong/User_Analysis/assets/133351869/7468586c-9410-4b56-a556-29fea20b5fd3">
 
 
 - At the end of April and the beginning of May, there were more withdrawal transactions than deposit transactions in the "Chứng khoán" and "Tích luỹ" products.
