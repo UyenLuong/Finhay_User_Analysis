@@ -1,5 +1,4 @@
 
--- GHÉP BẢNG
 create view data_set
 AS 
 select created_date, a.USER_ID, LOẠI_GIAO_DỊCH, GIÁ_TRỊ_GIAO_DỊCH, TÊN_SẢN_PHẨM, TUỔI, THÀNH_PHỐ, GIỚI_TÍNH
