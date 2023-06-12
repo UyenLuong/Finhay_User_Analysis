@@ -1,4 +1,4 @@
-# Finhay_User_Analysis
+# Fintech_User_Analysis
 Basic User Analysis using SQL: User Demographics and User Behavior from a fintech app
 
 
@@ -22,10 +22,10 @@ The data set includes information from 996 users from a fintech app from the end
 
 - Approximately 11% of customers have shown loyalty by conducting more than 10 transactions in the past 3 months. 
 => We should reward these loyal customers for their frequent transactions
-<img width="862" alt="image" src="https://github.com/UyenLuong/User_Analysis/assets/133351869/14fd89d5-0cf1-450c-a560-b0e0a59863a6">
+<img width="711" alt="image" src="https://github.com/UyenLuong/User_Analysis/assets/133351869/e5b84d0f-85e7-453b-b815-77a687511e38">
 
-- "Tài khoản tiền Finhay" is the product with the highest transaction volume. "Hũ vàng" is the product with the lowest transaction value.
-- "Tài khoản tiền Finhay" and "Hũ vàng" are the two products with a lower withdrawal rate compared to the deposit rate. Conversely, "Tích luỹ" and "Chứng Khoán" have a higher withdrawal rate compared to the deposit rate.
+- "Tài khoản tiền Mặc định" is the product with the highest transaction volume. "Hũ vàng" is the product with the lowest transaction value.
+- "Tài khoản tiền Mặc định" and "Hũ vàng" are the two products with a lower withdrawal rate compared to the deposit rate. Conversely, "Tích luỹ" and "Chứng Khoán" have a higher withdrawal rate compared to the deposit rate.
 
 <img width="834" alt="image" src="https://github.com/UyenLuong/User_Analysis/assets/133351869/1c0d3617-a862-41cd-b438-9be2cc8a6263">
 
